@@ -3,7 +3,7 @@ The Art Gallery Management System is a comprehensive database management solutio
 
 ADMIN LOGIN CREDENTIALS:
 
-USERNAME: admin123 
+USERNAME: admin123, 
 PASSWORD: admin123
 
 How to Run:
@@ -16,5 +16,6 @@ How to Run:
 
 4)Import the SQL file located in the database folder of the source code. 
 
-5)Copy and paste the source code to the location where your local web server accessing your local projects. 
+5)Copy and paste the source code to the location where your local web server accessing your local projects.
+
 Example for XAMPP('C:\xampp\htdocs') Open a web browser and browse the project. E.g [http://localhost/art-gallery-management-system] for the visitor or customer and for the admin [http://localhost/art-gallery-management-system/admin]
